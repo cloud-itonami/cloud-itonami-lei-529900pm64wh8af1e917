@@ -29,5 +29,5 @@ Any claims or suits associated with the Site or its use shall be governed and co
 " 1 :add]
  ["basf-tos-1" :tos/source-url "https://www.basf.com/jp/en/legal/disclaimer.html" 1 :add]
  ["basf-tos-1" :tos/retrieved-at "2026-07-10" 1 :add]
- ["basf-tos-1" :tos/sha256 "35ce68b17770d980a24e60968a57e28ae75c2ff5f917ba7e5f7bd4fd69c6d858" 1 :add]
+ ["basf-tos-1" :tos/sha256 "64c00e87ed3ae56065ca25f7c5f5cadaf35344ae2d1fe4f078a0c01d2891ac26" 1 :add]
  ["basf-tos-1" :tos/doc-type :terms-of-service 1 :add]]
